@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+}
+h1{ 
+    color:red;
+    font-size: 80px;
+}
+
+h3.barbacoa{
+    color: purple;
+}
+
+h3.carnitas{
+color: pink;
+}
+p{
+    color: green;
+}
+
+img{
+    width: 250px;
+}
